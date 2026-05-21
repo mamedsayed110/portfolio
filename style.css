@@ -474,7 +474,7 @@ section {
   }
 }
 .hero-name {
-  font-family: "Syn", sans-serif;
+  font-family: "Carter One", sans-serif;
   font-size: clamp(2.8rem, 5.5vw, 5rem);
   font-weight: 700;
   line-height: 1.01;
