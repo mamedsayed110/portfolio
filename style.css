@@ -474,10 +474,10 @@ section {
   }
 }
 .hero-name {
-  font-family: "Syne", sans-serif;
+  font-family: "Syn", sans-serif;
   font-size: clamp(2.8rem, 5.5vw, 5rem);
-  font-weight: 800;
-  line-height: 1.05;
+  font-weight: 700;
+  line-height: 1.01;
   margin-bottom: 0.5rem;
   background: linear-gradient(
     135deg,
